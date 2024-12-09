@@ -6409,7 +6409,9 @@
         "rain": {
             "full_name": "Total precipitation",
             "unit": "mm",
-            "levels": [],
+            "levels": [
+                "surface"
+            ],
             "ranges": {
                 "surface": [
                     [
